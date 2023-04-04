@@ -1,5 +1,3 @@
-# youtube_whisperer
-
 YouTube Transcription Script
 ============================
 
