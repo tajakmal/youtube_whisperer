@@ -30,11 +30,7 @@ Limitations
 
 - This script only works with YouTube videos that have clear and distinct audio.
 - The quality of the transcription may vary depending on the quality of the audio and the accuracy of the OpenAI model.
-
-Contributing
-------------
-
-If you find a bug or have a feature request, please open an issue or submit a pull request on GitHub.
+- There are size limitations that still need to be worked out in order to handle larger file sizes.
 
 License
 -------
